@@ -32,3 +32,4 @@ vaderSentiment==3.3.2
 wcwidth==0.2.6
 webencodings==0.5.1
 Werkzeug==2.2.2
+gunicorn
